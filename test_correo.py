@@ -15,7 +15,7 @@ class Test(unittest.TestCase):
 
     def test_03_es_direccion_de_alumno(self):
         from correo import  my_email
-        self.assertTrue(my_email().endswith('@alu.uclm.es'))
+        self.assertTrue(my_email().endswith('@uclm.es'))
 
     def test_04_no_contiene_espacios(self):
         from correo import  my_email

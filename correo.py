@@ -2,4 +2,4 @@
 # devuelve tu correo electrónico de la UCLM
 
 def my_email():
-    return 'francisco.moya1@alu.uclm.es'
+    return 'francisco.moya@uclm.es'
